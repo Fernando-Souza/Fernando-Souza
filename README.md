@@ -1,7 +1,7 @@
 # Bem vindo a meu Github 👋!
 
 🧑🏾‍💻 Sou um Zootecnista,Dsc, pesquisador apaixonado por programação,análise de dados e a utilização de programação e tecnologia na área de produção animal. <br>
-📌 Uberaba-MG <br>
+📌 Belo Horizonte-MG <br>
 🎓 Possuo formação técnica em Informática para Internet- CEFET-MG  <br>
 ☕ Atualmente estou me dedicando a formação de programador java web, html,css, javascript através dos cursos do <a href="https://www.jdevtreinamento.com.br/">JDEV</a> e outros cursos livres <br>
 
