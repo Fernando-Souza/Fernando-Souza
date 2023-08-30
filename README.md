@@ -14,6 +14,8 @@ busquei uma formação na área realizando  o curso 🎓 <b>Informática para In
 <p align="center">
  :hotsprings: :brazil: :hotsprings: :brazil: :hotsprings:
 </p>
+<hr>
+<br><br>
 <div align="center">
   <a href="https://github.com/Fernando-Souza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fernando-Souza&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
