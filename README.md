@@ -1,15 +1,13 @@
-<p align=center>
-<img src="https://onedrive.live.com/embed?resid=5A8C01FCD0DA3B20%2136677&authkey=%21AGbOLyw8rwA4gV8&width=640&height=640" width="440" height="440" />
+<p align="center">
+ <img src="https://onedrive.live.com/embed?resid=5A8C01FCD0DA3B20%2136677&authkey=%21AGbOLyw8rwA4gV8&width=640&height=640" width="440" height="440" alt="GitHub Readme Stats" />
+ <h2 align="center">Bem vindo a meu Github 👋!</h2>
 </p>
-
-# Bem vindo a meu Github 👋!
-
+<br>
+<br>
 🧑🏾‍💻 Sou um Zootecnista,Dsc, pesquisador apaixonado por programação,análise de dados e a utilização de programação e tecnologia na área de produção animal. <br>
 📌 Belo Horizonte-MG <br>
 🎓 Possuo formação técnica em Informática para Internet- CEFET-MG  <br>
-☕ Atualmente estou me dedicando a formação de programador java web, html,css, javascript através dos cursos do <a href="https://www.jdevtreinamento.com.br/">JDEV</a> e outros cursos livres <br>
-
-
+☕ Atualmente estou me dedicando a formação de programador java web, html,css, javascript através des cursos, livros e outros <br>
 <div align="center">
   <a href="https://github.com/Fernando-Souza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fernando-Souza&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
