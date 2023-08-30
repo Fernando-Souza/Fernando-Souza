@@ -1,4 +1,6 @@
-<img align="right" alt="Coding" width="400" src="https://1drv.ms/i/s!AiA72tD8AYxagp5FjMiq470NBpUepw?e=Wt4Rar">
+<p align=center>
+<img src="https://onedrive.live.com/embed?resid=5A8C01FCD0DA3B20%2136677&authkey=%21AGbOLyw8rwA4gV8&width=640&height=640" width="440" height="440" />
+</p>
 
 # Bem vindo a meu Github 👋!
 
