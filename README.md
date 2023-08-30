@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://1drv.ms/i/s!AiA72tD8AYxagp5FjMiq470NBpUepw?e=Wt4Rar">
+
 # Bem vindo a meu Github 👋!
 
 🧑🏾‍💻 Sou um Zootecnista,Dsc, pesquisador apaixonado por programação,análise de dados e a utilização de programação e tecnologia na área de produção animal. <br>
