@@ -4,10 +4,16 @@
 </p>
 <br>
 <br>
-🧑🏾‍💻 Sou um Zootecnista,Dsc, pesquisador apaixonado por programação,análise de dados e a utilização de programação e tecnologia na área de produção animal. <br>
-📌 Belo Horizonte-MG <br>
-🎓 Possuo formação técnica em Informática para Internet- CEFET-MG  <br>
-☕ Atualmente estou me dedicando a formação de programador java web, html,css, javascript através des cursos, livros e outros <br>
+<p align="center">
+🧑🏾‍💻 Zootecnista de formação, fui apresentado durante minha graduação aos conceitos básicos de programação e tenho tido grande interesse  pela área que se tornou maior quando conheci a linguagem de programação R durante a minha pós-graduação
+e cair de cabeça utilizando a linguagem para a realização de análises estatísticas de dados experimentais, produção de gráficos e ao mesmo tempo aprendendo o básico da programação para a solução de problemas pontuais. Sentido a necessidade de conhecimento mais estruturado
+busquei uma formação na área realizando  o curso 🎓 <b>Informática para Internet- CEFET-MG</b> onde aprendi os conceitos relacionados a sistemas web e contato com linguagens de programação C,C++,PHP e Java, escolhi me dedicar a linguagem java.
+☕ Atualmente estou me dedicando a formação de programador java web estudando através de cursos,livro, manuais e listas.
+ Nesse repositório você poderá acomapanhar a minha evoulução no que diz respeito a programação e desenvolvimento.<br> Espero alcançar maturidade suficiente para poder transformar minhas idéias em projetos e contribuir em projetos open sources. 
+</p>
+<p align="center">
+ :hotsprings: :brazil: :hotsprings: :brazil: :hotsprings:
+</p>
 <div align="center">
   <a href="https://github.com/Fernando-Souza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fernando-Souza&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
