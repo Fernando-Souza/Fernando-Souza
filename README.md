@@ -12,7 +12,7 @@
  <p style='text-align: justify;'>
  &nbsp;&nbsp;&nbsp;Sentindo a necessidade de conhecimento mais estruturado, busquei formação na área através do curso 🎓 <b>Informática para Internet- CEFET-MG</b> onde aprendi os conceitos relacionados a sistemas web e contato com linguagens de programação C,C++,PHP e Java.
  Atualmente estou me dedicando a formação de programador java web ☕, estudando através de cursos,livro, manuais e listas. Nesse repositório você poderá acompanhar minha evoulução.
- Espero alcançar maturidade suficiente para poder transformar idéias em projetos e contribuir em outros projetos. </p>
+ Espero alcançar maturidade suficiente para poder transformar idéias em projetos e atuar em outros. </p>
  </div>
 <p align="center">
  :hotsprings: :brazil: :hotsprings: :brazil: :hotsprings:
