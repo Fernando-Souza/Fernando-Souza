@@ -6,13 +6,13 @@
 <br>
 <div style='text-align: justify;'>
  <p style='text-align: justify;'>
-🧑🏾‍💻 Zootecnista de formação, fui apresentado durante minha graduação aos conceitos básicos de programação e tenho tido grande interesse  pela área, que se tornou maior quando conheci a linguagem de programação R durante a minha pós-graduação.
- Entrei de cabeça na linguagem a utilizando para a realização de análises estatísticas de dados experimentais, produção de gráficos e ao mesmo tempo fui aprendendo os conceitos básico da programação para a solução de problemas pontuais.
+🧑🏾‍💻 Zootecnista de formação, fui apresentado durante minha graduação aos conceitos básicos de programação e tenho tido grande interesse  pela área, que se tornou maior quando conheci a linguagem de programação R.
+ 
   </p>
  <p style='text-align: justify;'>
- &nbsp;&nbsp;&nbsp;Sentindo a necessidade de conhecimento mais estruturado, busquei formação na área através do curso 🎓 <b>Informática para Internet- CEFET-MG</b> onde aprendi os conceitos relacionados a sistemas web e contato com linguagens de programação C,C++,PHP e Java.
- Atualmente estou me dedicando a formação de programador java web ☕, estudando através de cursos,livro, manuais e listas. Nesse repositório você poderá acompanhar minha evoulução.
- Espero alcançar maturidade suficiente para poder transformar idéias em projetos e atuar em outros. </p>
+ &nbsp;&nbsp;&nbsp;Em busca de conhecimento, busquei formação na área através do curso 🎓 <b>Informática para Internet- CEFET-MG</b> onde aprendi os conceitos relacionados a sistemas web e linguagens de programação C,C++,PHP e Java.
+ Atualmente, me dedico a formação de programador java web ☕, através de cursos,&nbsp;livros, manuais e listas. Neste repositório você poderá acompanhar minha evoulução.<br>
+ &nbsp;&nbsp;&nbsp;Espero alcançar maturidade para poder transformar idéias em projetos e atuar em outros. </p>
  </div>
 <p align="center">
  :hotsprings: :brazil: :hotsprings: :brazil: :hotsprings:
